@@ -1,0 +1,9 @@
+# Audio files are hosted on R2, not in git
+*.mp3
+*.m4a
+*.wav
+*.flac
+
+# Python cache
+__pycache__/
+*.pyc
