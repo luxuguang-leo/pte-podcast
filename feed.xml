@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>PTE备考指北</title>
+    <link>https://luxuguang-leo.github.io/pte-podcast</link>
+    <description>PTE 写作范文朗读 — 跟读范文，提升英语写作与口语。</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2026 00:00:00 +0000</pubDate>
+    <itunes:author>Leo</itunes:author>
+    <itunes:summary>PTE 写作范文朗读 — 跟读范文，提升英语写作与口语。</itunes:summary>
+    <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/pte-podcast/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Leo</itunes:name>
+      <itunes:email>luxuguangno1@163.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Language Courses"/>
+    </itunes:category>
+    <atom:link href="https://luxuguang-leo.github.io/pte-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>EP01 — 城市 vs 乡村生活 (Urban vs Countryside Life)</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/pte-podcast/ep01-urban-vs-countryside.mp3" length="621000" type="audio/mpeg"/>
+      <guid isPermaLink="false">a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6</guid>
+      <pubDate>Sat, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>2:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>PTE 写作高频第1题：Living in the countryside or having an urban life, which one do you prefer? 城市生活还是乡村生活？范文朗读。</description>
+      <itunes:summary>PTE 写作高频第1题：城市 vs 乡村生活。范文朗读练习。</itunes:summary>
+    </item>
+  </channel>
+</rss>
