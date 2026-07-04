@@ -32,5 +32,17 @@
       <description>PTE 写作高频第1题：Living in the countryside or having an urban life, which one do you prefer? 城市生活还是乡村生活？范文朗读。</description>
       <itunes:summary>PTE 写作高频第1题：城市 vs 乡村生活。范文朗读练习。</itunes:summary>
     </item>
+    <item>
+      <title>EP02 — 大众传媒 (Mass Media Influence)</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/pte-podcast/ep02-mass-media.mp3" length="635000" type="audio/mpeg"/>
+      <guid isPermaLink="false">bb30812839d469448bf4e91a11dab4d6</guid>
+      <pubDate>Sat, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>2:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>PTE 写作高频第2题：The mass media including TV, Radio and newspaper influence our society and shape our opinions and characters. 大众传媒对个人与社会的影响。</description>
+      <itunes:summary>PTE 写作高频第2题：大众传媒的影响。范文朗读练习。</itunes:summary>
+    </item>
   </channel>
 </rss>
